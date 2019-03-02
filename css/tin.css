@@ -1,0 +1,322 @@
+header{
+	color:#000000;
+}
+h1{
+	margin:auto;
+	width:60%;
+	text-align:center;
+}
+
+h3{
+	margin-left:25.5em;
+	
+}
+#team{
+	float:left;
+	margin-top:4em;
+	margin-left: 4em;
+	margin-bottom:2em;
+	background-color:#101034;
+}
+#team2{
+	float:left;
+	margin-top:4em;
+	margin-left: 4em;
+	margin-bottom:2em;
+	background-color:#C4061F;
+}
+#team3{
+	float:left;
+	margin-top:4em;
+	margin-left: 4em;
+	margin-bottom:2em;
+	background-color:#C70F27;
+}
+#team4{
+	float:left;
+	margin-top:4em;
+	margin-left: 4em;
+	margin-bottom:2em;
+	background-color:#052E6C;
+}
+#recentGame{
+	float:right;
+	width:20%;
+	margin-right:2em;
+}
+#recentGame2{
+	float:right;
+	width:20%;
+	margin-right:2em;
+}
+#teamImg{
+	float: right;
+	position:sticky;
+	margin-right:2em;
+	margin-top:2em;
+	margin-bottom:1em;
+}
+#teamImg2{
+	float: right;
+	position:sticky;
+	margin-right:2em;
+	margin-top:2em;
+	margin-bottom:1em;
+}
+#links{
+	float:right;
+	position:sticky;
+	margin-right:8em;
+	margin-bottom:1em;
+	background-color:#f5f5f5;
+	padding:2em;
+}
+#links2{
+	float:right;
+	position:sticky;
+	margin-right:8em;
+	margin-bottom:3em;
+	background-color:#f5f5f5;
+	padding:2em;
+}
+.division{
+	display:inline-block;
+	width:20em;
+	height:10em;
+	margin:1em;
+}
+.conference{
+	width:23em;
+	display:inline-block;
+	margin-right:6em;
+	margin-left:2em;
+	text-align:center;
+}
+.conference h4{
+	text-align:center;
+}
+.clearFloat{
+	clear:left;
+}
+.company img{
+	float:left;
+	margin-right:0.5em;
+	margin-left:2em;
+}
+.company h4{
+	margin-top:0.5em;
+	padding-top:0.5em;
+	display:inline-block;
+	
+}
+.socialmedia {
+	float: right;
+	margin-left:32em;
+	
+}
+.inline{
+	padding-left:27.5em;
+	text-align:center;
+}
+
+#chicago img{
+	width:100%;
+	display:block;
+	margin:auto;
+}
+#chicago {
+	margin-left:2em;
+	margin-right:2em;
+	padding-top:3em;
+}
+
+.quickScores {
+	display:inline-block;
+	width:20em;
+	height: 10em;
+	margin:1em;
+	text-align:center;
+	
+}
+
+.clearRight{
+	clear:right;
+}
+.edition{
+	text-align:center;	
+}
+
+.italic{
+	font-style:italic;
+}
+.hero{
+	float:right;
+	margin-right:4em;
+}
+#para{
+	margin:auto;
+	width:60%;
+	padding-bottom:1em;
+}
+#para2{
+	padding-left:2em;
+	padding-top:0;
+	padding-bottom:2em;
+}
+table{
+	border:1px solid #000000;
+	margin-bottom:1em;
+	width:100%;
+}
+tr:nth-of-type(even) { background-color: #d9d9d9; color:#101034; }
+td, th{
+	padding:10px;
+	border:1px solid #000000;
+	
+}
+#records{
+	float: right;
+	width:20%;
+}
+caption{
+	text-align: center;
+	margin-bottom:1em;
+}
+h2{
+	padding-left:2em;
+	
+}
+body{
+	background-color:#d9d9d9;
+	color: #f5f5f5;
+	font-family: Georgia, Verdana, Arial;
+	margin:0;
+	padding-bottom:2em;
+	
+}
+main{
+	padding:1em 2em 2em 2em;
+	
+}
+
+#bg{
+	background-color: #c4061f;
+	margin-left:2em;
+	margin-right:2em;
+	margin-top:1em;
+}
+#bg1{
+	background-color: #101034;
+	margin-left:2em;
+	margin-right:2em;
+	margin-top:3em;
+}
+#bg2 p{
+	background-color:#d9d9d9;
+	color: #009999;
+	padding:.5em;
+	border: 2px solid #d9d9d9;
+	border-radius: 5px;
+}
+#bg3{
+	background-color:#C4061F;
+	color:#f5f5f5;
+	margin-left:2em;
+	margin-right:2em;
+	margin-top:3em;
+}
+#bg4{
+	background-color:#C70F27;
+	color:#f5f5f5;
+	margin-left:2em;
+	margin-right:2em;
+	margin-top:3em;
+}
+#bg5{
+	background-color:#052E6C;
+	color:#f5f5f5;
+	margin-left:2em;
+	margin-right:2em;
+	margin-top:3em;
+}
+#comments h3{
+	margin:auto;
+	width:60%;
+	text-align:center;
+	padding-bottom:1em;
+}
+#comments p{
+	margin:auto;
+	width:60%;
+}
+footer{
+	background-color: #3DA3D3;
+	color:#000000;
+	font-size: .80em;
+	font-style: italic;
+	text-align: center;
+	padding:1em;
+}
+#records td{
+	text-align:center;
+}
+#recentGame td{
+	text-align:center;
+}
+#recentGame2 td{
+	text-align:center;
+}
+h2{
+	padding-top:0;
+}
+nav{
+	right:0;
+	margin:auto;
+}
+nav ul{
+	list-style-type: none;
+	text-align:center;
+	overflow:hidden;
+	background-color:#d9d9d9;
+	padding:10px 0 10px 0;
+	float:left;
+	margin-top:0;
+	position:fixed;
+	width:100%;
+}
+nav li{
+	display:inline;
+	border-left: 2px solid #000000;	
+}
+nav a{
+	text-decoration:none;
+	padding:0 40px;
+	
+}
+nav li:last-child {
+	border-right: 2px solid #000000;
+}
+
+nav a:link {color: #000000;padding-top:10px; padding-bottom:10px;}
+nav a:hover:not(.active){color: #0000ff;}
+nav a:active{color:#FF0000;}
+.active{
+	color:#FF0000;
+}
+
+label             {display: block}
+fieldset          {border-width: 0px; display:inline-block;}
+
+#contact{
+	margin-top:1em;
+}
+
+#commentField     {padding-bottom: 20px;}
+#commentLabel     {font-size: 12px;}
+#comment          {width: 450px; height: 150px; padding: 5px; text-align: left;
+                   border: 1px solid rgb(102, 51, 0);}
+#wordcountLabel   {width: 450px; text-align: right;}
+#wordcount        {width: 50px; text-align: right; padding: 0px 3px 0px 0px;
+                   margin-left: 5px; border-width: 0px;}
+#subbutton        {width: 150px; border: 2px outset rgb(102, 51, 0);
+                   display: block; margin-top: 10px; float: right;}
